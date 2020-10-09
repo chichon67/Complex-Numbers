@@ -1,0 +1,13 @@
+C:\Users\marca\source\repos\NombreComplex\NombreComplex\bin\Debug\netcoreapp3.1\NombreComplex.exe
+C:\Users\marca\source\repos\NombreComplex\NombreComplex\bin\Debug\netcoreapp3.1\NombreComplex.deps.json
+C:\Users\marca\source\repos\NombreComplex\NombreComplex\bin\Debug\netcoreapp3.1\NombreComplex.runtimeconfig.json
+C:\Users\marca\source\repos\NombreComplex\NombreComplex\bin\Debug\netcoreapp3.1\NombreComplex.runtimeconfig.dev.json
+C:\Users\marca\source\repos\NombreComplex\NombreComplex\bin\Debug\netcoreapp3.1\NombreComplex.dll
+C:\Users\marca\source\repos\NombreComplex\NombreComplex\bin\Debug\netcoreapp3.1\NombreComplex.pdb
+C:\Users\marca\source\repos\NombreComplex\NombreComplex\obj\Debug\netcoreapp3.1\NombreComplex.csprojAssemblyReference.cache
+C:\Users\marca\source\repos\NombreComplex\NombreComplex\obj\Debug\netcoreapp3.1\NombreComplex.AssemblyInfoInputs.cache
+C:\Users\marca\source\repos\NombreComplex\NombreComplex\obj\Debug\netcoreapp3.1\NombreComplex.AssemblyInfo.cs
+C:\Users\marca\source\repos\NombreComplex\NombreComplex\obj\Debug\netcoreapp3.1\NombreComplex.csproj.CoreCompileInputs.cache
+C:\Users\marca\source\repos\NombreComplex\NombreComplex\obj\Debug\netcoreapp3.1\NombreComplex.dll
+C:\Users\marca\source\repos\NombreComplex\NombreComplex\obj\Debug\netcoreapp3.1\NombreComplex.pdb
+C:\Users\marca\source\repos\NombreComplex\NombreComplex\obj\Debug\netcoreapp3.1\NombreComplex.genruntimeconfig.cache
